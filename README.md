@@ -9,18 +9,18 @@
 
 
   <div> 
-  <a href = "https://github.com/HarrisonBorgess"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
   <a href = "mailto:harrisonborges13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/harrisonborges/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href = "https://github.com/HarrisonBorgess"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
   
 </div>
 
 ### 🧰 Languages and Tools
+
 <img src="https://skillicons.dev/icons?i=java,spring,html,css,javascript,kotlin,androidstudio,postman,vscode" />
 
-<br />
-
 #
+
 <details>
 <summary><h3>Summary of My Academic Journey (click to expand) </h3></summary>
   
