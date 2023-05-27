@@ -31,7 +31,7 @@
 
 #
 <details>
-<summary><h3>Resumo da minha jornada academica (clique para expandir) </h3></summary>
+<summary><h3>Summary of My Academic Journey (click to expand) </h3></summary>
   
 Start Year: I entered the Software Engineering course in 2021, at the University where I am currently studying.
 
