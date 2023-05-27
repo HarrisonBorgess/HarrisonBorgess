@@ -6,6 +6,7 @@ Olá! Meu nome é Harrison Borges e sou estudante de Engenharia de Software na U
 Estou atualmente empenhado em aprimorar meus conhecimentos e habilidades na área de desenvolvimento de software,tenho interesse em diferentes áreas da Engenharia de Software,mas a principal é ser um programador Full Stack ou Back End-Java.
 
   <div> 
+  <a href = "mailto:harrisonborges13@gmail.com"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
   <a href = "mailto:harrisonborges13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/harrisonborges/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
