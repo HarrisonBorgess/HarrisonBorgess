@@ -1,4 +1,4 @@
-#🧑‍💻 Harrison Borges
+🧑‍💻 Harrison Borges
 
 <br> **`Estudante de Engenharia de Software`** </br> 
 
