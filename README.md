@@ -1,12 +1,11 @@
 🧑‍💻 Harrison Borges
-<br> **`Estudante de Engenharia de Software`** </br> 
+<br> **`Software Engineering Student`** </br>
 
-- 👋 Olá, me chamo Harrison
-- ⚡ Foco principal em Full Stack ou Back-End 
-- 📕 Fazendo Bacharelado de Engenharia de Software na Universidade Catolica do Salvador
-- 🔭 Utilizo meu Github para projetos pessoais e atividades propostas em sala de aula
-- 📫 Você pode entrar em contato comigo via Email ou Linkedin
-
+- 👋 Hello, my name is Harrison.
+- ⚡ Main focus on Full Stack or Back-End.
+- 📕 Pursuing a Bachelor's degree in Software Engineering at Catholic University of Salvador.
+- 🔭 I use my Github for personal projects and class assignments.
+- 📫 You can reach me via Email or Linkedin.
 
 
   <div> 
@@ -16,7 +15,7 @@
   
 </div>
 
-### 🧰 Linguagens e Ferramentas
+### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -33,15 +32,16 @@
 #
 <details>
 <summary><h3>Resumo da minha jornada academica (clique para expandir) </h3></summary>
-Ano de Início: Entrei no curso de Engenharia de Software em 2021, na Universidade onde estudo atualmente.
+  
+Start Year: I entered the Software Engineering course in 2021, at the University where I am currently studying.
 
-Foco de Estudo: Durante minha graduação, tenho me concentrado em aprender os fundamentos da Engenharia de Software, incluindo conceitos de programação, estruturas de dados, algoritmos e design de software. Tenho adquirido conhecimentos em várias linguagens de programação, com o foco principal na linguagem Java e alguns trabalhos com as linguagens  Python, C++ e JavaScript, além de me familiarizar com frameworks e tecnologias utilizadas no desenvolvimento de software.
+Focus of Study: Throughout my degree, I have been focused on learning the fundamentals of Software Engineering, including programming concepts, data structures, algorithms, and software design. I have gained knowledge in various programming languages, with a primary focus on Java and some work with Python, C++, and JavaScript, as well as familiarizing myself with frameworks and technologies used in software development.
 
-Experiência em Projetos: Ao longo dos meus estudos, tenho tido a oportunidade de participar de projetos práticos, aplicando os conhecimentos teóricos adquiridos em sala de aula. Esses projetos têm abordado diferentes áreas da Engenharia de Software, como desenvolvimento web, aplicativos móveis e sistemas de informação.
+Project Experience: During my studies, I have had the opportunity to participate in practical projects, applying the theoretical knowledge gained in the classroom. These projects have covered different areas of Software Engineering, such as web development, mobile applications, and information systems.
 
-Meta de Formatura: Estou ansioso para me formar em Engenharia de Software em dezembro de 2024,tenho trabalhado duro para adquirir as habilidades necessárias e obter um entendimento abrangente das práticas e princípios da Engenharia de Software.
+Graduation Goal: I am eager to graduate in Software Engineering in December 2024. I have been working hard to acquire the necessary skills and obtain a comprehensive understanding of the practices and principles of Software Engineering.
 
-Aprendizado Contínuo: Além dos estudos acadêmicos, estou sempre buscando oportunidades para aprimorar minhas habilidades e expandir meu conhecimento,participar de cursos online, conferências e comunidades de desenvolvimento me permite ficar atualizado com as últimas tendências e avanços na área de Engenharia de Software.
+Continuous Learning: In addition to academic studies, I am always seeking opportunities to enhance my skills and expand my knowledge. Participating in online courses, conferences, and development communities allows me to stay updated with the latest trends and advancements in the field of Software Engineering.
 
-Objetivos Futuros: Pretendo ingressar no mercado de trabalho como desenvolvedor de software ou engenheiro de software,tenho interesse em trabalhar em projetos desafiadores, colaborar com equipes talentosas e continuar aprendendo e crescendo profissionalmente.
+Future Goals: I intend to enter the job market as a software developer or software engineer. I am interested in working on challenging projects, collaborating with talented teams, and continuing to learn and grow professionally.
 </details>
