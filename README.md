@@ -16,7 +16,7 @@
 </div>
 
 ### 🧰 Languages and Tools
-<img src="https://skillicons.dev/icons?i=java,spring,html,css,javascript,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=java,spring,html,css,javascript,kotlin,androidstudio,postman,vscode" />
 
 <br />
 
