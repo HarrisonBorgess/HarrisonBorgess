@@ -16,17 +16,8 @@
 </div>
 
 ### 🧰 Languages and Tools
+<img src="https://skillicons.dev/icons?i=java,spring,html,css,javascript,postman,vscode" />
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <br />
 
 #
@@ -35,7 +26,7 @@
   
 Start Year: I entered the Software Engineering course in 2021, at the University where I am currently studying.
 
-Focus of Study: Throughout my degree, I have been focused on learning the fundamentals of Software Engineering, including programming concepts, data structures, algorithms, and software design. I have gained knowledge in various programming languages, with a primary focus on Java and some work with Python, C++, and JavaScript, as well as familiarizing myself with frameworks and technologies used in software development.
+Focus of Study: Throughout my degree, I have been focused on learning the fundamentals of Software Engineering, including programming concepts, data structures, algorithms, and software design. I have gained knowledge in various programming languages, with a primary focus on Java and some work with JavaScript, as well as familiarizing myself with frameworks and technologies used in software development.
 
 Project Experience: During my studies, I have had the opportunity to participate in practical projects, applying the theoretical knowledge gained in the classroom. These projects have covered different areas of Software Engineering, such as web development, mobile applications, and information systems.
 
