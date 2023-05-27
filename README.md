@@ -1,5 +1,4 @@
 🧑‍💻 Harrison Borges
-
 <br> **`Estudante de Engenharia de Software`** </br> 
 
 Olá! Meu nome é Harrison Borges e sou estudante de Engenharia de Software na Universidade Católica de Salvador.
