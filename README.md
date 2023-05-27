@@ -3,16 +3,16 @@
 
 - 👋 Olá, me chamo Harrison
 - ⚡ Foco principal em Full Stack ou Back-End 
-- 📕 Atualmente estudante de Engenharia de Software
+- 📕 Fazendo Bacharelado de Engenharia de Software na Universidade Catolica do Salvador
 - 🔭 Utilizo meu Github para projetos pessoais e atividades propostas em sala de aula
 - 📫 Você pode entrar em contato comigo via email ou likedin
 
 
 
   <div> 
-  <a href = "/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
-  <a href = "mailto:harrisonborges13@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/harrisonborges/" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href = "https://github.com/HarrisonBorgess"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  <a href = "mailto:harrisonborges13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/harrisonborges/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   
 </div>
 
