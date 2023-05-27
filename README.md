@@ -3,9 +3,9 @@
 
 - 👋 Olá, me chamo Harrison
 - ⚡ Foco principal em Full Stack ou Back-End 
-- 📕 Atualmente estudante de engenharia de software
+- 📕 Atualmente estudante de Engenharia de Software
 - 🔭 Utilizo meu Github para projetos pessoais e atividades propostas em sala de aula
-- 📫 você pode entrar em contato comigo via email ou likedin
+- 📫 Você pode entrar em contato comigo via email ou likedin
 
 
 
