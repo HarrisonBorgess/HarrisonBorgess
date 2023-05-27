@@ -2,7 +2,7 @@
 <br> **`Software Engineering Student`** </br>
 
 - 👋 Hello, my name is Harrison.
-- ⚡ Main focus on Full Stack or Back-End.
+- ⚡ My focus is to become a Full Stack or Java Back-End specialist.
 - 📕 Pursuing a Bachelor's degree in Software Engineering at Catholic University of Salvador.
 - 🔭 I use my Github for personal projects and class assignments.
 - 📫 You can reach me via Email or Linkedin.
