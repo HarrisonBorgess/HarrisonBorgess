@@ -5,7 +5,7 @@
 - ⚡ Foco principal em Full Stack ou Back-End 
 - 📕 Fazendo Bacharelado de Engenharia de Software na Universidade Catolica do Salvador
 - 🔭 Utilizo meu Github para projetos pessoais e atividades propostas em sala de aula
-- 📫 Você pode entrar em contato comigo via email ou likedin
+- 📫 Você pode entrar em contato comigo via Email ou Linkedin
 
 
 
