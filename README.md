@@ -26,7 +26,7 @@
   
 Start Year: I entered the Software Engineering course in 2021, at the University where I am currently studying.
 
-Focus of Study: Throughout my degree, I have been focused on learning the fundamentals of Software Engineering, including programming concepts, data structures, algorithms, and software design. I have gained knowledge in various programming languages, with a primary focus on Java and some work with JavaScript, as well as familiarizing myself with frameworks and technologies used in software development.
+Focus of Study: Throughout my degree, I have been focused on learning the fundamentals of Software Engineering, including programming concepts, data structures, algorithms, and software design. I have gained knowledge in various programming languages, with a primary focus on Java,as well as familiarizing myself with frameworks and technologies used in software development.
 
 Project Experience: During my studies, I have had the opportunity to participate in practical projects, applying the theoretical knowledge gained in the classroom. These projects have covered different areas of Software Engineering, such as web development, mobile applications, and information systems.
 
