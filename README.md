@@ -3,7 +3,9 @@
 <br> **`Estudante de Engenharia de Software`** </br> 
 
 Olá! Meu nome é Harrison Borges e sou estudante de Engenharia de Software na Universidade Católica de Salvador.
-Estou atualmente empenhado em aprimorar meus conhecimentos e habilidades na área de desenvolvimento de software,tenho interesse em diferentes áreas da Engenharia de Software,mas a principal é ser um programador Full Stack ou Back End-Java.
+Estou atualmente empenhado em aprimorar meus conhecimentos e habilidades na área de desenvolvimento de software,tenho interesse em diferentes áreas da Engenharia de Software,mas a principal é ser trabalhar p ser um programador Full Stack ou Back End-Java.
+Utilizo meu Github para projetos pessoais e atividades propostas em sala de aula.
+
 
   <div> 
   <a href = "/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
